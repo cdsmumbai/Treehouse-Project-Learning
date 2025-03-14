@@ -19,16 +19,16 @@ project 1 - A Random Quote Generator
      tags: ['inspiration']  // Extra property added
    }, {quote:  'A small step for man, a giant leap for mankind.',
        source :  'Neil Armstrong', 
-       ciation : 'quotecascade.com',
+       citation : 'quotecascade.com',
        year : '1969'
    }, {quote: 'The only person you are destined to become is the person you decide to be', 
        source : 'Ralph Waldo Emerson', 
-       ciation :  'gopius.com',
+       citation :  'gopius.com',
        year : '1841'
    },
       {quote : 'It is still best to be honest and truthful; to make the most of what we have; to be happy with simple pleasures; and have courage when things go wrong.',
        source : 'Laura Ingalls Wilder',
-       ciation : 'gopius.com',
+       citation : 'gopius.com',
        year : ''
      },
       { quote : 'It does not matter how slowly you go as long as you do not stop.',
